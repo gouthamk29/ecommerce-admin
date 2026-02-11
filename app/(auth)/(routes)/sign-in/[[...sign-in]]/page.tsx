@@ -3,8 +3,7 @@ import { SignIn } from "@clerk/nextjs";
 
 function Page() {
   return <div>
-    hello
-    <SignIn />;
+    <SignIn />
   </div> 
 }
 
